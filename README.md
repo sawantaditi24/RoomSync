@@ -1,4 +1,4 @@
-# PurSell - Student Accommodation & Marketplace Platform
+# RoomSync - Student Accommodation & Marketplace Platform
 
 A web application designed to help CSULB students find accommodation, roommates, and essential items. Built with React (frontend) and Flask (backend).
 
@@ -37,7 +37,7 @@ A web application designed to help CSULB students find accommodation, roommates,
 ## Project Structure
 
 ```
-PurSell/
+RoomSync/
 ├── backend/
 │   ├── app.py              # Flask application and API endpoints
 │   ├── requirements.txt    # Python dependencies
@@ -74,7 +74,7 @@ pip install -r requirements.txt
 
 4. Create a `.env` file (optional, defaults to SQLite):
 ```bash
-DATABASE_URL=sqlite:///pursell.db
+DATABASE_URL=sqlite:///roomsync.db
 ```
 
 5. Run the Flask server:
