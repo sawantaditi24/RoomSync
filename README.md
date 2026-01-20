@@ -49,6 +49,8 @@ A built-in platform for buying and selling essential student items such as furni
 ### Real-Time Status Management
 Dynamic status indicators (Available, Booking Fast, Filled Up) with automatic pruning of filled listings after 24 hours, ensuring users always see current, actionable information.
 
+<img width="3420" height="2214" alt="Screenshot 2026-01-19 at 7 12 53 PM" src="https://github.com/user-attachments/assets/56a6bb7d-c07b-4cd0-af4f-b8411c77d5d7" />
+
 ## Features
 
 ### Accommodation Management
@@ -59,11 +61,19 @@ Dynamic status indicators (Available, Booking Fast, Filled Up) with automatic pr
 - Set status indicators to reflect urgency
 - Manage listings with the ability to mark as filled
 
+<img width="1710" height="1107" alt="Screenshot 2026-01-19 at 7 14 12 PM" src="https://github.com/user-attachments/assets/c2498a9a-39a0-4916-a203-e1848e6ff8f7" />
+
+<img width="1710" height="1107" alt="Screenshot 2026-01-19 at 7 14 37 PM" src="https://github.com/user-attachments/assets/48218eeb-9722-484e-83b4-a02588b865c2" />
+
+<img width="1710" height="1107" alt="Screenshot 2026-01-19 at 7 14 54 PM" src="https://github.com/user-attachments/assets/dc3640be-fd59-4059-8667-9fa97532785b" />
+
 **Seek Availability**
 - Comprehensive search with multiple filter options
 - View detailed listings with contact information
 - Filter by housing property, cost range, lease terms, and more
 - Real-time availability status
+
+<img width="1710" height="1107" alt="Screenshot 2026-01-19 at 7 16 21 PM" src="https://github.com/user-attachments/assets/ffc5cfd8-43d0-48b6-aaaf-ed4755be693d" />
 
 ### Marketplace
 
@@ -71,6 +81,10 @@ Dynamic status indicators (Available, Booking Fast, Filled Up) with automatic pr
 - Price-based filtering
 - Category organization
 - Direct contact information for transactions
+
+<img width="1710" height="1107" alt="Screenshot 2026-01-19 at 7 16 30 PM" src="https://github.com/user-attachments/assets/bcda0345-9499-40bc-a3ca-ff07d10f59c3" />
+
+<img width="1710" height="1107" alt="Screenshot 2026-01-19 at 7 18 23 PM" src="https://github.com/user-attachments/assets/fc919042-0334-49ec-9d62-a23154c99a98" />
 
 ### User Experience
 
@@ -257,6 +271,8 @@ RoomSync/
 5. Set your preferences (gender, cost range, lease term, dietary restrictions, etc.)
 6. Add any additional notes in the miscellaneous field
 7. Submit the form to create your listing
+
+
 
 ### Seeking an Availability
 
