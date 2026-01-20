@@ -4,26 +4,27 @@ A comprehensive platform designed to simplify the accommodation and roommate sea
 
 ## Problem Statement
 
-International students face significant challenges when relocating to a new country for their studies. One of the most critical and time-consuming tasks is finding suitable accommodation and compatible roommates. The traditional methods of searching for housing often involve:
+Imagine arriving in a new country, thousands of miles from home, with just a few weeks before classes begin. Your priority list is overwhelming: navigate a new city, understand a different culture, set up banking, get a phone number, and somehow find a place to live. But here's the reality that every international student at CSULB knows all too well:
 
-- Scattered information across multiple platforms and social media groups
-- Lack of centralized filtering options for specific preferences
-- Difficulty in finding roommates with compatible lifestyles, dietary restrictions, and academic schedules
-- Limited visibility into available accommodations near the university
-- Challenges in selling or purchasing essential items needed for student life
-- Inefficient communication channels between students seeking and offering accommodations
+You spend hours scrolling through Facebook groups, WhatsApp chats, and random websites, hoping to find someone who needs a roommate or has a room available. You message dozens of people, only to discover the room is already taken, the location is too far, or worse—you realize after moving in that your roommate's lifestyle is completely incompatible with yours. Maybe they're night owls and you need quiet study time, or they have dietary restrictions that clash with yours, or the cost is more than you budgeted for.
 
-These challenges can lead to prolonged searches, suboptimal living situations, and added stress during an already overwhelming transition period.
+The search becomes a full-time job you didn't sign up for. You're juggling time zones to call home, trying to understand lease agreements in a language that's not your first, and making decisions about where you'll live for the next year based on incomplete information. Meanwhile, you're also trying to find basic furniture and essentials—a desk, a chair, a lamp—because you can't afford to buy everything new, but you don't know where to look or who to trust.
+
+This isn't just about finding a room. It's about finding a home, a community, and roommates who understand what it means to be an international student. It's about reducing the stress of an already challenging transition and focusing on what you came here to do: learn, grow, and succeed.
+
+The current system is broken. Information is scattered, preferences are ignored, and students are left to figure it out alone. There has to be a better way.
 
 ## Solution
 
-RoomSync addresses these challenges by providing a unified, purpose-built platform specifically tailored for CSULB students. The platform offers:
+RoomSync is that better way. Built by students, for students, specifically for the CSULB community. We understand because we've been there—the late-night searches, the uncertainty, the hope that the next message will be the one that works out.
 
-### Centralized Accommodation Marketplace
-A dedicated space where students can both post available rooms and search for accommodations based on comprehensive filtering criteria, eliminating the need to navigate multiple platforms.
+RoomSync brings everything you need into one place, designed with your actual needs in mind. No more jumping between platforms. No more guessing if a listing is still available. No more moving in blind, hoping for the best. Here's how we're changing the game:
 
-### Intelligent Matching System
-Advanced filtering capabilities that allow students to find roommates and accommodations based on:
+### One Platform, Everything You Need
+Stop the endless tab-switching. Whether you're looking for a room or have one to fill, RoomSync is your single destination. Post your availability in minutes, or search with filters that actually matter to you. No more Facebook groups, no more random websites, no more missed opportunities.
+
+### Find Your Perfect Match
+We get it—compatibility matters. That's why RoomSync lets you filter by what really counts:
 - Gender preferences
 - Budget constraints
 - Lease term requirements
@@ -34,20 +35,14 @@ Advanced filtering capabilities that allow students to find roommates and accomm
 - Academic programs and courses
 - Custom miscellaneous preferences
 
-### Focused Property Coverage
-Initially concentrated on properties near CSULB:
-- Beverly Plaza Apartments
-- Park Avenue
-- Patio Gardens
-- Circles Apartments
+### CSULB-Focused, Student-Tested
+We started with the properties you actually care about—the ones within walking distance or a short commute to campus. Beverly Plaza, Park Avenue, Patio Gardens, and Circles Apartments. No more wondering if a listing is actually near campus. Every property on RoomSync is verified and relevant to your CSULB life.
 
-This focused approach ensures relevant, location-specific listings for students.
+### More Than Just Housing
+Moving in is just the beginning. You need furniture, study supplies, and essentials that won't break your budget. RoomSync's integrated marketplace connects you with other students selling exactly what you need, at prices you can afford. It's your one-stop shop for setting up your new life.
 
-### Integrated Marketplace
-A built-in platform for buying and selling essential student items such as furniture, study materials, and daily necessities, creating a complete ecosystem for student needs.
-
-### Real-Time Status Management
-Dynamic status indicators (Available, Booking Fast, Filled Up) with automatic pruning of filled listings after 24 hours, ensuring users always see current, actionable information.
+### Always Up-to-Date
+Tired of messaging people about rooms that were filled weeks ago? RoomSync shows real-time status—Available, Booking Fast, or Filled Up. Once a room is filled, it automatically disappears after 24 hours, so you're always seeing what's actually available. No wasted time, no false hope.
 
 <img width="3420" height="2214" alt="Screenshot 2026-01-19 at 7 12 53 PM" src="https://github.com/user-attachments/assets/56a6bb7d-c07b-4cd0-af4f-b8411c77d5d7" />
 
