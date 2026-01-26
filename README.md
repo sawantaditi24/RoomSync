@@ -24,7 +24,7 @@ RoomSync brings everything you need into one place, designed with your actual ne
 Stop the endless tab-switching. Whether you're looking for a room or have one to fill, RoomSync is your single destination. Post your availability in minutes, or search with filters that actually matter to you. No more Facebook groups, no more random websites, no more missed opportunities.
 
 ### Find Your Perfect Match
-We get it—compatibility matters. That's why RoomSync lets you filter by what really counts:
+We get it compatibility matters. That's why RoomSync lets you filter by what really counts:
 - Gender preferences
 - Budget constraints
 - Lease term requirements
@@ -36,7 +36,7 @@ We get it—compatibility matters. That's why RoomSync lets you filter by what r
 - Custom miscellaneous preferences
 
 ### CSULB-Focused, Student-Tested
-We started with the properties you actually care about—the ones within walking distance or a short commute to campus. Beverly Plaza, Park Avenue, Patio Gardens, and Circles Apartments. No more wondering if a listing is actually near campus. Every property on RoomSync is verified and relevant to your CSULB life.
+We started with the properties you actually care about the ones within walking distance or a short commute to campus. Beverly Plaza, Park Avenue, Patio Gardens, and Circles Apartments. No more wondering if a listing is actually near campus. Every property on RoomSync is verified and relevant to your CSULB life.
 
 ### More Than Just Housing
 Moving in is just the beginning. You need furniture, study supplies, and essentials that won't break your budget. RoomSync's integrated marketplace connects you with other students selling exactly what you need, at prices you can afford. It's your one-stop shop for setting up your new life.
