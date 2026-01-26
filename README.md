@@ -6,9 +6,9 @@ A comprehensive platform designed to simplify the accommodation and roommate sea
 
 Imagine arriving in a new country, thousands of miles from home, with just a few weeks before classes begin. Your priority list is overwhelming: navigate a new city, understand a different culture, set up banking, get a phone number, and somehow find a place to live. But here's the reality that every international student at CSULB knows all too well:
 
-You spend hours scrolling through Facebook groups, WhatsApp chats, and random websites, hoping to find someone who needs a roommate or has a room available. You message dozens of people, only to discover the room is already taken, the location is too far, or worse—you realize after moving in that your roommate's lifestyle is completely incompatible with yours. Maybe they're night owls and you need quiet study time, or they have dietary restrictions that clash with yours, or the cost is more than you budgeted for.
+You spend hours scrolling through Facebook groups, WhatsApp chats, and random websites, hoping to find someone who needs a roommate or has a room available. You message dozens of people, only to discover the room is already taken, the location is too far, or worse you realize after moving in that your roommate's lifestyle is completely incompatible with yours. Maybe they're night owls and you need quiet study time, or they have dietary restrictions that clash with yours, or the cost is more than you budgeted for.
 
-The search becomes a full-time job you didn't sign up for. You're juggling time zones to call home, trying to understand lease agreements in a language that's not your first, and making decisions about where you'll live for the next year based on incomplete information. Meanwhile, you're also trying to find basic furniture and essentials—a desk, a chair, a lamp—because you can't afford to buy everything new, but you don't know where to look or who to trust.
+The search becomes a full-time job you didn't sign up for. You're juggling time zones to call home, trying to understand lease agreements in a language that's not your first, and making decisions about where you'll live for the next year based on incomplete information. Meanwhile, you're also trying to find basic furniture and essentials a desk, a chair, a lamp because you can't afford to buy everything new, but you don't know where to look or who to trust.
 
 This isn't just about finding a room. It's about finding a home, a community, and roommates who understand what it means to be an international student. It's about reducing the stress of an already challenging transition and focusing on what you came here to do: learn, grow, and succeed.
 
@@ -16,7 +16,7 @@ The current system is broken. Information is scattered, preferences are ignored,
 
 ## Solution
 
-RoomSync is that better way. Built by students, for students, specifically for the CSULB community. We understand because we've been there—the late-night searches, the uncertainty, the hope that the next message will be the one that works out.
+RoomSync is that better way. Built by students, for students, specifically for the CSULB community. We understand because we've been there the late-night searches, the uncertainty, the hope that the next message will be the one that works out.
 
 RoomSync brings everything you need into one place, designed with your actual needs in mind. No more jumping between platforms. No more guessing if a listing is still available. No more moving in blind, hoping for the best. Here's how we're changing the game:
 
@@ -42,7 +42,7 @@ We started with the properties you actually care about—the ones within walking
 Moving in is just the beginning. You need furniture, study supplies, and essentials that won't break your budget. RoomSync's integrated marketplace connects you with other students selling exactly what you need, at prices you can afford. It's your one-stop shop for setting up your new life.
 
 ### Always Up-to-Date
-Tired of messaging people about rooms that were filled weeks ago? RoomSync shows real-time status—Available, Booking Fast, or Filled Up. Once a room is filled, it automatically disappears after 24 hours, so you're always seeing what's actually available. No wasted time, no false hope.
+Tired of messaging people about rooms that were filled weeks ago? RoomSync shows real-time status. Available, Booking Fast, or Filled Up. Once a room is filled, it automatically disappears after 24 hours, so you're always seeing what's actually available. No wasted time, no false hope.
 
 <img width="3420" height="2214" alt="Screenshot 2026-01-19 at 7 12 53 PM" src="https://github.com/user-attachments/assets/56a6bb7d-c07b-4cd0-af4f-b8411c77d5d7" />
 
